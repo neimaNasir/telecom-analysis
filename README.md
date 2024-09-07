@@ -1,6 +1,6 @@
 # TellCo Data Analysis
 
-## **Requirements for Completing this Task**
+## **Approach**
 
 ### **Task-1: Overview of the User's Behavior on Applications**
 
